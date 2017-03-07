@@ -2,6 +2,8 @@
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 
+# All work and no play also make Dana dull. Approved.
+
 # If not running interactively, don't do anything
 case $- in
     *i*) ;;
